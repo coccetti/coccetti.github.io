@@ -11,8 +11,11 @@ His interests are mainly focused on photonic computing, machine learning, artifi
 
 He worked at SLAC (Stanford University) and later at CERN. He is an expert of Monte Carlo Simulations, Complex Networks and Big Data Analysis.
 
+<small>
 # Profilo di Fabrizio Coccetti
 Fabrizio Coccetti, fisico ricercatore, è Dirigente al Centro Ricerche Enrico Fermi di via Panisperna a Roma. Da luglio 2024 è anche componente del Consiglio di Amministrazione del CREF. I suoi interessi sono focalizzati su: fotonica computazionale, machine learning, intelligenza artificiale e fisica delle astroparticelle. Ha lavorato presso SLAC, l'acceleratore lineare della Stanford University, e successivamente al CERN di Ginevra, l’Organizzazione Europea per la Ricerca Nucleare. Fabrizio è inoltre un esperto di simulazioni con il metodo Monte Carlo, di Complessità e Big Data.
+</small>
+
 
 # Current Research Activities
 - Pysicist, Researcher, Director of Technology at the Enrico Fermi Research Center (Centro Ricerche Enrico Fermi), Rome, IT
