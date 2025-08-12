@@ -1,3 +1,32 @@
 theme: jekyll-theme-minimal
-title: Fabrizio Coccetti's homepage on GitHub
-description: Interesting links:
+title: Fabrizio Coccetti's Homepage on GitHub
+description: Physicist, researcher and Director of Technology at the Enrico Fermi Research Center. Expert in photonic computing, machine learning, AI and astroparticle physics.
+url: "https://coccetti.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+
+# Social media links (optional)
+# twitter_username: your_twitter_username
+# github_username: coccetti
+
+# Author information
+author:
+  name: Fabrizio Coccetti
+  email: 
+  bio: "Physicist, Researcher, Director of Technology"
+  location: "Rome, Italy"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/coccetti"
+    - label: "Scopus"
+      icon: "fas fa-external-link-alt"
+      url: "https://www.scopus.com/authid/detail.uri?authorId=55124608600"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=UJzHqsUAAAAJ"
