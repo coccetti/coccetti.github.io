@@ -15,3 +15,7 @@ Fabrizio Coccetti, fisico ricercatore, è Dirigente al Centro Ricerche Enrico Fe
 # Current Research Activities
 - Pysicist, Researcher, Director of Technology at the Enrico Fermi Research Center (Centro Ricerche Enrico Fermi), Rome, IT
 - List of publications: [https://www.scopus.com/authid/detail.uri?authorId=55124608600](Scopus), [https://scholar.google.com/citations?hl=en&user=UJzHqsUAAAAJ](Scholar)
+
+Go to: [https://www.fc8.net/](Fabrizio Coccetti's main web page)
+
+- [https://documents.fc8.net](Leggi i documenti scout Agesci che Fabrizio Coccetti ha scritto)
