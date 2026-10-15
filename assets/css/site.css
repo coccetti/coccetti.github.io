@@ -1,0 +1,188 @@
+:root {
+  --header-bg: #000;
+  --header-fg: #fff;
+  --text: #222;
+  --muted: #444;
+  --heading: #226e93;
+  --link: #226e93;
+  --max-width: 720px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  color: var(--text);
+  background: #fff;
+  line-height: 1.55;
+}
+
+a {
+  color: var(--link);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-header {
+  background: var(--header-bg);
+  color: var(--header-fg);
+  padding: 0.85rem 1.25rem;
+}
+
+.site-title {
+  color: var(--header-fg);
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 1.05rem;
+}
+
+.site-title:hover {
+  text-decoration: none;
+  opacity: 0.9;
+}
+
+.site-main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.5rem 1.25rem 2.5rem;
+}
+
+.site-footer {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.25rem 2.5rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.hero-photo {
+  display: block;
+  width: min(100%, 420px);
+  height: auto;
+  margin: 0 auto 1.25rem;
+}
+
+.hero h1 {
+  margin: 0 0 0.4rem;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.hero .role {
+  margin: 0 0 0.5rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.hero .topics {
+  margin: 0 0 0.5rem;
+  font-style: italic;
+  color: var(--muted);
+}
+
+.hero .tagline {
+  margin: 0;
+  font-weight: 700;
+}
+
+h2 {
+  color: var(--heading);
+  font-size: 1.4rem;
+  font-weight: 400;
+  margin: 2rem 0 0.75rem;
+}
+
+h3 {
+  color: var(--heading);
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin: 1.25rem 0 0.5rem;
+}
+
+p {
+  margin: 0 0 1rem;
+}
+
+ul {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.35rem;
+}
+
+.book {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  margin: 1rem 0 1.5rem;
+}
+
+.book-cover {
+  width: 160px;
+  max-width: 40%;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.book-meta {
+  flex: 1;
+  min-width: 0;
+}
+
+.book-meta .title {
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.book-meta .details {
+  color: var(--muted);
+  margin-bottom: 0.75rem;
+}
+
+.buy-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.75rem;
+  list-style: none;
+  padding: 0;
+  margin: 0.75rem 0 0;
+}
+
+.buy-links li {
+  margin: 0;
+}
+
+@media (max-width: 560px) {
+  .book {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .book-cover {
+    max-width: 200px;
+    width: 100%;
+  }
+
+  .buy-links {
+    justify-content: center;
+  }
+}
