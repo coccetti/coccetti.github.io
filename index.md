@@ -67,3 +67,7 @@ List of publications: [Scopus](https://www.scopus.com/authid/detail.uri?authorId
 - instagram: [instagram.com/fabrizio.coccetti](https://instagram.com/fabrizio.coccetti)
 - orcid: [0000-0001-7041-3394](https://orcid.org/0000-0001-7041-3394)
 - web of science: [HZK-0864-2023](https://www.webofscience.com/wos/author/record/HZK-0864-2023)
+
+## Scout Agesci
+
+[Documenti scout Agesci scritti da Fabrizio Coccetti](https://documents.fc8.net/)
